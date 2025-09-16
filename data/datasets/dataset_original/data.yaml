@@ -1,0 +1,16 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names:
+  0: tunnel
+  1: Speedlimit_50
+  2: Speedlimit_100
+  3: intersection
+  4: parking
+  5: right
+  6: left
+  7: construction
+  8: stop
+  9: traffic_light
